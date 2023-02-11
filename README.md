@@ -1,2 +1,2 @@
 # tictactoe-game
-CLI Based using Python
+Based on CLI using Python
